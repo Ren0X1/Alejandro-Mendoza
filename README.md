@@ -15,7 +15,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am a Systems Engineer Specialist at Infosys
+### I am a Back end Developer.
 - 🔭 I’m currently working on my own Linux Build :grin:
 - 🌱 I’m currently learning DAW.
 - 👯 I’m looking to collaborate with other Developers :wink:
