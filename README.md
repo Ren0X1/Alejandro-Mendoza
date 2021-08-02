@@ -19,10 +19,8 @@
 - 🔭 I’m currently working on my own Linux Build :grin:
 - 🌱 I’m currently learning DAW.
 - 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2020 Goals: Contribute to Open Source projects
+- 🥅 2021 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
-- 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I love connecting with different people :raised_hands:
 
 <br>
 
