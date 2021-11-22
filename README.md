@@ -46,7 +46,3 @@
   
 <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=Ren0X1&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages">
 <br>
-
-### 🎧 Spotify Playing 
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/21ocaxs6jem5brq5piwv3yxxy)
