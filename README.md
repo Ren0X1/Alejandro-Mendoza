@@ -17,7 +17,7 @@
 
 ### I am a Backend Developer.
 - 🔭 I’m currently working on my own Linux Build :grin:
-- 🌱 I’m currently working at Indra Systems.
+- 🌱 I’m currently working at Santander Global Tech with Optimissa.
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2021 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
